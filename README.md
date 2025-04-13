@@ -10,7 +10,7 @@
 🔹What is the total average Medicare payment made to each provider?  
 
 🔹Categorize providers based on their total outpatient services as follows:  
-   
+    
   High: 100 and above  
   
   Medium: 50–99  
